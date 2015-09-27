@@ -1,2 +1,2 @@
 # datasciencecoursera
-A part of class project
+A part of class project. 
